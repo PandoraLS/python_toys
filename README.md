@@ -21,7 +21,7 @@ This is a simple demonstration of applying Markov networks to the problem of ima
 本程序使用Python3.6和Numpy实现了基于Negative Sampling的Skip-gram词向量模型，并且集成了Subsampling技术，同时还包括对低频词的裁剪工作；最后利用余弦相似，求得与输入词汇最相似的10个词汇，来检验词向量模型训练的效果。
 
 
-## 多线程
+## multi_process_and_thread
 
 [进程和线程 廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400/1017627212385376)
 
