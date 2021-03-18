@@ -5,6 +5,11 @@
 """
 参考链接：https://www.cnblogs.com/carsonzhu/p/11197048.html
 利用Tracing将模型转化为 Torch Script
+
+使用visual studio部署
+参考连接：https://blog.csdn.net/gulingfengze/article/details/92013360
+参考连接2：https://blog.csdn.net/m0_37729957/article/details/98168009
+该方法保存
 """
 
 # TODO 下面用到的evaluate需要用c语言来实现
